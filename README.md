@@ -1,6 +1,7 @@
-# Intro-to-Data-Structures
-Introductory class to data structures in Java
+# Game-of-Life
 
-Branches: AminoAcidLab, BinarySearchTreeLab, Expressions
+GameOfLife: allow the user to play the game of life on a 2-D board.
 
-sorting: implementations of different quicksort and merge sort.
+TorusGameOfLife: allow the user to play the game of life on a torus board.
+
+GOTester: tester for both games of life.
