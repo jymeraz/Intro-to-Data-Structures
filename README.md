@@ -1,6 +1,3 @@
-# Intro-to-Data-Structures
-Introductory class to data structures in Java
+# Stack-&-Queue
 
-Branches: AminoAcidLab, BinarySearchTreeLab, Expressions
-
-sorting: implementations of different quicksort and merge sort.
+Classes implementing and testing stack and queues.
