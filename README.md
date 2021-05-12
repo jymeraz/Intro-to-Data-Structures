@@ -1,6 +1,3 @@
-# Intro-to-Data-Structures
-Introductory class to data structures in Java
+# New-Sorting
 
-Branches: AminoAcidLab, BinarySearchTreeLab, Expressions
-
-sorting: implementations of different quicksort and merge sort.
+Program that sorts the input values in a specific pattern using from algorithms such as merge sort and quick sort.
