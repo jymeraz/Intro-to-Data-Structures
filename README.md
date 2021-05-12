@@ -1,6 +1,3 @@
-# Intro-to-Data-Structures
-Introductory class to data structures in Java
+# Snake-Game
 
-Branches: AminoAcidLab, BinarySearchTreeLab, Expressions
-
-sorting: implementations of different quicksort and merge sort.
+Allows the user to play the classic snake game on their computer by allowing them to pick the next valid index.
